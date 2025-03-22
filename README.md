@@ -47,11 +47,11 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
 
 ```
-git clone https://github.com/PGOpenda/nft_auction.git
+git clone https://github.com/bitfancy/Sui-Nft-auction.git
 ```
 
 ```
-cd nft-auction-sui
+cd Sui-Nft-auction
 ```
 
 2. Build the project:
